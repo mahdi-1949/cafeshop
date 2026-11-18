@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mahdi-1949.github.io/cafeshop/sitemap.xml
